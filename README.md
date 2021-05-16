@@ -1,4 +1,7 @@
 # BAT-MINE
+
+About
+--------------------------------
 Automate BAT rewards from Brave
 
 The Program is set to run in an infinite loop for clicking ads to generate rewards of BAT tokens.
@@ -9,7 +12,7 @@ Maximum number of ads which can be monetized per hour is 5.
 
 
 Ideal Monetization Calculation
----------------------------------
+--------------------------------
 
 5 ads * 0.005 BAT = 0.025 BAT per hour
 24 hrs * 0.025 BAT = 0.6 BAT per day
@@ -19,7 +22,7 @@ Ideal Monetization Calculation
 
 
 Possible Issues
---------------------------
+--------------------------------
 
 1. Unable to load advertisement page due to caching/ cookie issues
 	- Try closing the existing tab and open a new one.
@@ -36,5 +39,5 @@ Possible Issues
 
 
 Enhancements
------------------------
+---------------------------------
 1. Run the program in multiple containers/ pods for increased monetization
