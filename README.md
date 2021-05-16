@@ -45,4 +45,4 @@ Possible Issues
 Enhancements
 ---------------------------------
 1. Run the program in multiple containers/ pods for increased monetization
-2. Handle Notificatino Ads
+2. Handle Notification Ads
