@@ -2,7 +2,7 @@
 
 About
 --------------------------------
-Automate BAT rewards from Brave
+Automate BAT rewards mining from Brave Browser
 
 The Program is set to run in an infinite loop for clicking ads to generate rewards of BAT tokens.
 
