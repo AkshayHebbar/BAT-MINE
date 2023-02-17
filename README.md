@@ -2,27 +2,13 @@
 
 About
 --------------------------------
-Automate BAT rewards mining from Brave Browser
+A hobby project to automate BAT rewards mining from Brave Browser
 
-The Program is set to run in an infinite loop for clicking ads to generate rewards of BAT tokens.
+The Program is designed to run for clicking ads to generate rewards of BAT tokens.
 
 Brave provides 0.005 BAT tokens per advertisement in exchange for user attention.
 
-Maximum number of ads which can be monetized per hour is 5.
-
-
-Ideal Monetization Calculation
---------------------------------
-
-5 ads * 0.005 BAT = 0.025 BAT per hour
-
-24 hrs * 0.025 BAT = 0.6 BAT per day
-
-7 days * 0.6 BAT = 4.2 BAT per week
-
-4 weeks * 4.2 BAT = 17.64 BAT per month
-
-12 months * 17.64 BAT = 211.68 BAT per year
+Maximum number of ads which can be monetized per hour is 10.
 
 
 Possible Issues
